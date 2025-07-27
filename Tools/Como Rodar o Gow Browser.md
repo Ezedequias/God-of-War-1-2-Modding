@@ -1,7 +1,7 @@
 Bem, para isso, tenha seu God of War Browser em Mãos.
 
 - é importante ressaltar que ele só funciona através desses .bat. a estrutura é tipo
-- "-gowversion 1 -ps ps2" God of War Versão 1. isso é, God 1, console? -ps e console, seja -ps3, -ps psvita.
+- "-gowversion 1 -ps ps2" God of War Versão 1. isso é, God 1. e o console, seja -ps3, -ps psvita.
 
 O seu deve ser mais ou menos assim: <img width="787" height="566" alt="image" src="https://github.com/user-attachments/assets/de38f56d-6c7f-4cf3-9574-5fe5b98e7e45" />
 
