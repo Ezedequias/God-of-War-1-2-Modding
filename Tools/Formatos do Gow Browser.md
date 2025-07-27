@@ -1,4 +1,4 @@
-                     - Os Principais Formatos do God of War
+                                     - Os Principais Formatos do God of War
 
 O primeiro formato que você vê no God of War Browser, são os Wads. mas... o que são eles afinal?
 -Eles funcionam como um pacote que armazenam vários recursos do jogo, tais como:
