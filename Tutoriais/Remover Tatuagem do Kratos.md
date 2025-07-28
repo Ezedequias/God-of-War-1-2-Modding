@@ -12,6 +12,7 @@ Aqui eu vou dizer exatamente o que eu fiz. então, vamos lá;
         Para subistituir corretamente, você deve modificar depois do 6E e antes do 01, vou mostrar em uma imagem>>
 
    <img width="636" height="378" alt="image" src="https://github.com/user-attachments/assets/3da5df92-69ea-445b-b41c-46e2b75726e8" />
-         começa do 6e e acaba no 01, se passar deles, o jogo trava.
+
+   começa do 6e e acaba no 01, se passar deles, o jogo trava.
 
 - esse é um tutorial bem fácil e simples, mas legal de se fazer.
