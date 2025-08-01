@@ -25,3 +25,8 @@ Após isso abra ele, e ele apareceça um .bat dessa forma: <img width="1000" hei
 
 Após tudo isso, abra o site: http://127.0.0.1:8000/ e estará funcionando seu Gow Browser. desse jeito 
 - <img width="1262" height="651" alt="image" src="https://github.com/user-attachments/assets/fec2412b-9067-472e-9f68-ade62bda280a" />
+
+- Como abrir wads separados
+
+é possivel, basta colocar no seu .bat "-dir" ao invés de "-iso" para wads de god 1, é dessa forma= -dir SuaPasta" -gowversion 1
+para wads do God of War 2, basta colocar -gowversion 2. 
