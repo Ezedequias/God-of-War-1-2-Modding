@@ -9,7 +9,7 @@ O primeiro formato que você vê no God of War Browser, são os Wads. mas... o q
 
 - Materiais  (MAT)
 
-- Comportamentos do Jogo (TWK, ESC"
+- Comportamentos do Jogo (TWK, ESC.)
 
 Esses são alguns exemplos. o Kratos por exemplo, seu Wad se chama "Hero" Heroi em inglês. nele tem o Mesh hero_0
 as Texturas, TXR_maiF01, TXR_maiF02 e TXR_maiF03 (são 3 Texturas)
