@@ -14,6 +14,9 @@
 
 <img width="913" height="688" alt="GitHuub" src="https://github.com/user-attachments/assets/9953084e-4aee-47f2-887b-d22822058da6" />
 
+
+
+
 - Em vermelho é o que faz realmente o skip, em vermelho, é um loop que vamos quebrar colocando Zeros (00 00 00 00)
 - Isso fará com que seu jogo naturalmente tenha a opção de pular cenas e ira pular rápido, parecido com a versão de PS3
 
