@@ -23,9 +23,9 @@
 **Como aplicar:** Zerar os 4 bytes dos offsets indicados (`00 00 00 00`)
 
 ## God of War II 
-- **Offset na ISO:** FF2F3F18
-- **Velocidade do Skip (0 OFFSET):** FF2F3F24
+- **Offset na ISO:** (Ainda Não Documentado)
+- **Velocidade do Skip (0 OFFSET):** (Ainda Não Documentado)
 - **Instrução em MIPS:** `24 00 40 10` (Beq)
-- **Duração HXD:** 92718
+- **Duração HXD:** 92718 (Correto, Versão USA)
 
 **Como aplicar:** Zerar os 4 bytes dos offsets indicados (`00 00 00 00`)
